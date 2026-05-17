@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='https://github.com/manweiho/web102_prework/blob/main/Prework102%20Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
