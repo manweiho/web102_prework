@@ -36,6 +36,7 @@ GIF created with ScreenToGif
 
 Describe any challenges encountered while building the app.
 
+
 ## License
 
     Copyright [2026] [Man Wei Ho]
